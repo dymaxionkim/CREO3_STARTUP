@@ -11,6 +11,9 @@ _Startup Setting for PTC CREO3_
 ## 다운로드
 * [https://github.com/dymaxionkim/CREO3_STARTUP/archive/master.zip](https://github.com/dymaxionkim/CREO3_STARTUP/archive/master.zip)
 
+## SAMPLE
+![creo_sample](https://cloud.githubusercontent.com/assets/12775748/22509579/0bc42936-e8d2-11e6-92ca-fca807978abd.png)
+
 
 ## 제작배경
 * 사용자마다 설정이 달라서 혼선 발생
