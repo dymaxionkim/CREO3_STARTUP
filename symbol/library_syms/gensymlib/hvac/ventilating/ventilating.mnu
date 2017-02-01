@@ -1,0 +1,54 @@
+VENT#SYMS
+#
+#
+acess_door.sym
+Access door
+#
+ad_blnkoff.sym
+Adjustable blank off
+#
+adj_plaque.sym
+Adjustable plaque, rectangular or circular duct
+#
+auto_damp.sym
+Automatic dampers
+#
+canvas_con.sym
+Canvas connections
+#
+defl_damp.sym
+Deflecting damper, duct view or section view 
+#
+dir_flow.sym
+Direction of flow
+#
+duct.sym
+Duct (with size indicated, first number being height)
+#
+duct_sec.sym
+Duct cross-section, exhaust, return, or supply
+#
+ceiling.sym
+Ceiling exhaust inlet or supply outlet (with type indicated)
+#
+wall.sym
+Wall exhaust inlet or supply outlet (with type indicated)
+#
+fan_motor.sym
+Fan and motor with belt guard
+#
+drop_rise.sym
+Inclined drop or rise in respect to air flow
+#
+intake_luv.sym
+Intake louvers on screen
+#
+louv_open.sym
+Louver opening
+#
+vanes.sym
+Turning vanes for rounded or rectangular corners
+#
+vol_damper.sym
+Volume damper
+#

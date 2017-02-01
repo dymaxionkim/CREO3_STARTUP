@@ -1,0 +1,36 @@
+ELBOW
+#
+#
+45_degree.sym
+45 degree elbow for flange, screw, bell & spigot, weld or solder assembly
+#
+90_degree.sym
+90 degree elbow for flange, screw, bell & spigot, weld or solder assembly
+#
+base.sym
+Base elbow for flange, screw or bell & spigot assembly
+#
+double_brn.sym
+Double branch elbow for flange or screw assembly
+#
+long_rad.sym
+Long radius elbow for flange or screw assembly
+#
+out_down.sym
+Side outlet elbow (turned down) for flange, screw, or bell & spigot assembly
+#
+out_up.sym
+Side outlet elbow (turned up) for flange, screw, or bell & spigot assembly
+#
+reducing.sym
+90 degree reducing elbow for flange, screw or solder assembly
+#
+street.sym
+90 degree street elbow for screw assembly
+#
+turn_down.sym
+90 degree elbow, turned down, for flange, screw, bell & spigot, weld, or solder assy
+#
+turn_up.sym
+90 degree elbow, turned up, for flange, screw, bell & spigot, weld, or solder assy
+#

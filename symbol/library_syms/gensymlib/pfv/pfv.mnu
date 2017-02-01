@@ -1,0 +1,42 @@
+PFV#SYMS
+#
+#
+/angle_valve
+Graphical symbols for check, gate and globe angle valves
+#
+/auto_valve
+Graphical symbols for automatic valves (bypass, governor operated, &  reducing)
+#
+/elbow
+Graphical symbols for elbow fittings (45 deg., 90 deg., base, reducing, etc.)
+#
+/fittings
+Graphical symbols for miscellaneous fittings (caps, cocks, crosses, etc.)
+#
+/flange
+Graphical symbols orifice and reducing flanges
+#
+/gate_valve
+Graphical symbols for straight and motor operated gate valves
+#
+/globe_valve
+Graphical symbols for straight and motor operated globe valves
+#
+/hose_valve
+Graphical symbols for angle, gate and globe hose valves
+#
+/joint
+Graphical symbols for pipe connecting and expansion joints
+#
+/misc_valve
+Graphical symbols for misc. valves (check, diaphragm, float, etc.)
+#
+/plugs
+Graphical symbols for bull and pipe plugs
+#
+/reducer
+Graphical symbols for concentric and eccentric reducers
+#
+/tee
+Graphical symbols for misc. tee fittings(straight, reducing, side outlet, etc.)
+#

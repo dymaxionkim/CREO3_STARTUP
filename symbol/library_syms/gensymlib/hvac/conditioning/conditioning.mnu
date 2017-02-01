@@ -1,0 +1,123 @@
+COND#SYMS
+#
+#
+capi_tube.sym
+Capillary tube
+#
+compressor.sym
+Compressor
+#
+rot_comp_hv.sym
+Compressor, enclosed crankcase, rotary belted
+#
+rec_comp.sym
+Compressor, open crankcase, reciprocating, belted
+#
+recdd_comp.sym
+Compressor, open crankcase, reciprocating, direct drive
+#
+acff_cond.sym
+Condenser, air cooled, finned, forced air
+#
+acfs_cond.sym
+Condenser, air cooled, finned, static
+#
+condns_wat.sym
+Condenser, water cooled, concentric tubes, shell and coil, or shell and tube
+#
+conds_unit.sym
+Condensing unit, air or water cooled
+#
+c_tower_hv.sym
+Cooling tower
+#
+dryer.sym
+Dryer
+#
+evap_conds.sym
+Evaporative condenser
+#
+evap_circu.sym
+Evaporator, circular, ceiling type, finned
+#
+evap_manif.sym
+Evaporator, gravity air with manifolds, finned or bare tube
+#
+ffmn_evap.sym
+Forced air evaporator with manifolds and fins
+#
+evap_coils.sym
+Evaporator with plate coils, headered or manifold
+#
+filter_lin.sym
+Line filter
+#
+filt_stran.sym
+Line filter and strainer
+#
+cnvct_cool.sym
+Cooling unit, finned with natural or forced convection
+#
+gauge.sym
+Gauge
+#
+float_valv_hv.sym
+High or low side float valve
+#
+immsn_cool.sym
+Immersion cooling unit
+#
+m_comprsor.sym
+Motor-compressor, enclosed or sealed crankcase, rotary or recip., direct conn.
+#
+pstat.sym
+Pressurestat
+#
+p_switch.sym
+Pressure switch
+#
+hpco_psw.sym
+Pressure switch with high pressure cut-out
+#
+hor_rcvr.sym
+Horizontal receiver
+#
+ver_rcvr.sym
+Vertical receiver
+#
+scale_trap.sym
+Scale trap
+#
+spray_pond.sym
+Spray pond
+#
+therm_bulb.sym
+Thermal bulb
+#
+exp_valve.sym
+Expansion valves, automatic, hand, or thermostatic expansion
+#
+sp_valve.sym
+Constant pressure, suction, or compressor suction pressure limiting valves
+#
+epr_valve.sym
+Evaporator pressure regulating valves, snap action, thermostatic, or throttling
+#
+ms_valve.sym
+Magnetic stop valve
+#
+sa_valve.sym
+Snap action valve
+#
+svr_valve.sym
+Suction vapor regulating valve
+#
+ts_valve.sym
+Thermo suction valve
+#
+h2o_valve.sym
+Water valve
+#
+vib_abs.sym
+Line vibration absorber
+#

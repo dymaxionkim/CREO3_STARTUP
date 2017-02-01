@@ -1,0 +1,21 @@
+plotter XEROX8830
+button_name Xerox Plotter(A0 Only)
+button_help Xerox Plotter(A0 Only)
+plot_drawing_format YES default
+plot_segmented NO default
+plot_roll_media NO default
+plot_handshake NO default
+plot_label NO default
+create_separate_files NO default
+plot_with_panzoom NO default
+rotate_plotting NO default
+allow_file_naming YES
+plot_name YES
+interface_quality 0 default
+plot_destination file_and_printer default
+plotter_command  lpr -S10.92.1.222 -Pplt99h 
+pen_table_file d:\wf20\pro_stds\plotters\pen_table4xerox.pnt
+plot_sheets current default
+paper_size A0 default
+plot_clip NO default
+plot_area NO default

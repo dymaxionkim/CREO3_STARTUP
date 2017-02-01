@@ -1,0 +1,6 @@
+NOTE_DIECASTING
+
+ 1. Remove every flush after diecasting.
+ 2. PRETECH confirmation is needed for position of ejecting pins.
+ 3. Unindicated draft angle is 1.3[DEG] as minimum.
+ 4. Unindicated rounds at every edges are R0.3mm as minimum.

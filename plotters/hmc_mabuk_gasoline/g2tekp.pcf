@@ -1,0 +1,22 @@
+plotter    COLORPOSTSC
+button_name Tek for GSL 2 team
+button_help TEKTRONICS PRINTER
+plot_drawing_format NO default
+plot_segmented NO default
+plot_roll_media NO default
+plot_handshake NO default
+plot_label NO default
+create_separate_files NO default
+plot_with_panzoom NO default
+rotate_plotting NO default
+allow_file_naming YES
+plot_name YES
+interface_quality 0 default
+plot_destination file_and_printer default
+plotter_command lp -dg2tekp
+pen_table_file table.pnt
+plot_sheets current default
+paper_size_allowed A4
+paper_size A4
+plot_clip NO default
+plot_area NO default

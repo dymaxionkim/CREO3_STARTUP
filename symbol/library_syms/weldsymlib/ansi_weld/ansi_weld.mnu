@@ -1,0 +1,14 @@
+ansi_weld
+#
+#
+/braze
+Create brazing symbols with arrow, other, or both side significance.
+#
+/combination
+Create welding symbols with different arrow and/or other side welds.
+#
+/examine
+Create symbol describing weld examination method or radiation source direction.
+#
+/simple
+Create welding symbols with the same arrow and/or other side welds.

@@ -1,0 +1,55 @@
+simple
+#
+#
+bevel.sym
+Create a bevel welding symbol with  arrow or other side significance.
+#
+corner_flange.sym
+Create a corner-flange welding symbol with arrow or other side significance.
+#
+edge_flange.sym
+Create an edge-flange welding symbol with arrow or other side significance.
+#
+fillet.sym
+Create a fillet welding symbol with arrow or other side significance.
+#
+flare_bevel.sym
+Create a flared bevel groove welding symbol with arrow or other side significance.
+#
+flare_v.sym
+Create a flared-v groove welding symbol with arrow or other side significance.
+#
+j_groove.sym
+Create a J-groove welding symbol with arrow or other side significance.
+#
+plug.sym
+Create a plug welding symbol with arrow or other side significance.
+#
+seam.sym
+Create a seam welding symbol with arrow or other side significance.
+#
+slot.sym
+Create a slot welding symbol with arrow or other side significance.
+#
+spot.sym
+Create a spot welding symbol with arrow or other side significance.
+#
+square.sym
+Create a square groove welding symbol with arrow or other side significance.
+#
+stag_fillet.sym
+Create a staggered, intermittent, fillet welding symbol.
+#
+stud.sym
+Create a stud welding symbol with arrow side significance.
+#
+surfacing.sym
+Create a surfacing welding symbol with arrow side significance.
+#
+u_groove.sym
+Create a u groove welding symbol arrow or other side significance
+#
+v_groove.sym
+Create a V-groove welding symbol with arrow or other side significance.
+#
+

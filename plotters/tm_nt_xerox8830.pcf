@@ -1,0 +1,20 @@
+plotter xerox8830
+button_name TM_NT_Xerox8830
+button_help TM_NT_Xerox8830(AT/MT use)
+plot_drawing_format YES default
+plot_segmented NO default
+plot_roll_media NO default
+plot_handshake NO default
+plot_label NO default
+create_separate_files NO default
+plot_with_panzoom NO default
+rotate_plotting NO default
+allow_file_naming YES
+plot_name YES
+interface_quality 0 default
+plot_destination file_and_printer default
+plotter_command lpr -Sxerox8830 -Praw
+pen_table_file d:\ptc\pro_stds\plotters\tm_pen_table_xerox8830.pnt
+plot_sheets current default
+plot_clip NO default
+plot_area NO default

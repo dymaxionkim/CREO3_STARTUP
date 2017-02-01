@@ -1,0 +1,8 @@
+Brazing
+#
+#
+comb_flare.sym
+Create brazing symbols for flare v, flare bevel, and reinforced brazes.
+#
+comb_sqr_scrf.sym
+Create brazing symbols for simple (no prep), square, and scarf brazes.

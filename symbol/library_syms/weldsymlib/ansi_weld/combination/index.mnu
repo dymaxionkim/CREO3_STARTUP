@@ -1,0 +1,15 @@
+combination
+#
+#
+comb_flare.sym
+Create welding symbols from flare v, flare bevel, fillet and reinforced welds.
+#
+comb_j_u_sqr_fil.sym
+Create welding symbols from  j, u, square, fillet, and reinforced welds.
+#
+comb_spacer.sym
+Create a groove welding symbol with a spacer in the weld root.
+#
+comb_v_bev_sqr_fil.sym
+Create welding symbols from v, bevel, square, fillet, and reinforced welds.
+#

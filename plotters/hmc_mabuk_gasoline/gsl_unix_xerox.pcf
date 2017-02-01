@@ -1,0 +1,20 @@
+plotter XEROX8830
+button_name Xerox Plotter(A1~A4)
+button_help Xerox Plotter(A1~A4)
+plot_drawing_format YES default
+plot_segmented NO default
+plot_roll_media NO default
+plot_handshake NO default
+plot_label NO default
+create_separate_files NO default
+plot_with_panzoom NO default
+rotate_plotting NO default
+allow_file_naming YES
+plot_name YES
+interface_quality 0 default
+plot_destination file_and_printer default
+plotter_command lp -dxeroxh
+pen_table_file /ptc/pro_stds/plotters/pen_table4xerox.pnt
+plot_sheets current default
+plot_clip NO default
+plot_area NO default

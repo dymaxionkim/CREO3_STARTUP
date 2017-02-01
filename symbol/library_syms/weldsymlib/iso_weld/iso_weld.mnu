@@ -1,0 +1,67 @@
+iso_weld
+#
+#
+bevel_butt.sym
+Create a bevel welding symbol for arrow, other and double side.
+#
+br_root_bevel.sym
+Create a broad root bevel welding symbol for arrow, other and double side.
+#
+broad_root_v.sym
+Create a broad root V-welding symbol for arrow, other and double side.
+#
+combine.sym
+Create welding symbol for combinations of different types of weld.
+#
+iso_edge_flange.sym
+Create an edge-flange welding symbol with arrow or other side significance.
+#
+edge_weld.sym
+Create an edge-welding symbol with arrow or other side significance.
+#
+iso_fillet.sym
+Create a fillet welding symbol for arrow, other and double side.
+#
+fold_joint.sym
+Create a fold joint welding symbol with arrow or other side significance.
+#
+inclined_joint.sym
+Create a inclined joint welding symbol with arrow or other side significance.
+#
+j_butt.sym
+Create a J-butt welding symbol for arrow, other and double side.
+#
+iso_plug.sym
+Create a plug welding symbol with arrow or other side significance.
+#
+iso_seam.sym
+Create a seam welding symbol with arrow or other side significance.
+#
+iso_slot.sym
+Create a slot welding symbol with arrow or other side significance.
+#
+iso_spot.sym
+Create a spot welding symbol with arrow or other side significance.
+#
+iso_square.sym
+Create a square butt welding symbol for arrow, other and double side.
+#
+steep_bevel.sym
+Create a steep-flanked bevel welding symbol for arrow, other and double side.
+#
+steep_v.sym
+Create a steep-flanked V-butt welding symbol for arrow, other and double side.
+#
+surface_joint.sym
+Create a surface joint welding symbol with arrow or other side significance.
+#
+iso_surfacing.sym
+Create a surfacing welding symbol with arrow or other side significance.
+#
+u_butt.sym
+Create a U-butt  welding symbol for arrow, other and double side.
+#
+v_butt.sym
+Create a V-butt welding symbol for arrow, other and double side.
+#
+

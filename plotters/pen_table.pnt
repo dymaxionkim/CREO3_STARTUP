@@ -1,0 +1,16 @@
+! This is a pen table file. See Interface Guide under "pen mapping".
+! white entities (object lines)
+pen 1 thickness 0.5 cm; drawing_color
+! yellow entities (text, dimensions, cross hatching)
+pen 2 thickness 0.2 cm; letter_color
+! grey entities (hidden lines)
+pen 3 color 0.0 0.0 0.0; thickness 0.015 cm; pattern 0.1 0.05 cm
+! red entities (can use for drawing border if you change the entity color
+! to red in the format file)
+pen 4 thickness 0.01 cm; highlite_color
+pen 5 thickness 0.01 cm; highlite_color1
+pen 6 thickness 0.01 cm; highlite_color2
+pen 7 thickness 0.01 cm; highlite_color3
+
+
+

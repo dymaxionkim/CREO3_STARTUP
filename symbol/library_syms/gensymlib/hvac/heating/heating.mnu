@@ -1,0 +1,51 @@
+HEAT#SYMS
+#
+#
+air_elim.sym
+Air eliminator
+#
+anchor.sym
+Anchor
+#
+expsn_jnt.sym
+Expansion joint
+#
+hanger.sym
+Hanger or support
+#
+heat_exch.sym
+Heat exchanger
+#
+heat_trans.sym
+Heat transfer surface, plan
+#
+pump.sym
+Pump
+#
+strainer_hv.sym
+Strainer
+#
+tank_hv.sym
+Tank
+#
+thermometr.sym
+Thermometer
+#
+thermostat.sym
+Thermostat, regular or remote bulb
+#
+traps.sym
+Traps, boiler return, thermostatic(reg. or blast) or float(reg. or thermostatic)
+#
+unit_heat.sym
+Unit heater, centrifugal fan or propeller, plan
+#
+unit_vent.sym
+Unit ventilator, plan
+#
+valves.sym
+Valve (check, diaphragm, gate, globe, lock & shield, motor, reducing or relief)
+#
+vent_point.sym
+Vent point
+#

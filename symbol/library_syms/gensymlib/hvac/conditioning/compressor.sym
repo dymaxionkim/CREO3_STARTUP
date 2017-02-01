@@ -1,0 +1,234 @@
+#UGC USER_SYMBOL 570 0 0 170 0 1 1 @
+#Pro/ENGINEER  TM  Version D-01-28  (c) 1988-92 by Parametric Technology Corporation  All Rights Reserved.
+@usr_def_symbol 1 0
+0 1 ->
+@type 2 1
+1 2 45
+@attribute 3 1
+1 3 59552
+@id 4 1
+1 4 2
+@revnum 5 1
+1 5 1
+@name 6 10
+1 6 COMPRESSORA
+@path 7 0
+1 7 ->
+@version 8 1
+2 8 -1
+@name 9 10
+2 9 compressora.sym
+@path 10 10
+2 10 
+@outline 11 2
+1 11 [2][3]
+$402493199A055E8F,401FCB2253A875D3,0
+$40250053A0D8FEFD,4020970F74EC1F9B,0
+@height 12 2
+1 12 3FD62FC962FC963
+@data 13 0
+1 13 NULL
+@attach_pnt 14 0
+1 14 ->
+@type 15 1
+2 15 14
+@attach_id 16 1
+2 16 1
+@index 17 1
+2 17 [2]
+$2*0
+@att_offsets 18 0
+2 18 [1]
+3 18 ->
+@offset_type 19 1
+4 19 6
+@offset 20 2
+4 20 0
+@view_id 21 1
+2 21 0
+@point 22 2
+2 22 [3]
+$4024A0C0DADFD29D,4020970F74EC1F9B,0
+@vec 23 2
+2 23 [3]
+$0,BFF,0
+@attribute 24 1
+2 24 0
+@scndry_attach_ptr 25 0
+2 25 NULL
+@next_attach_ptr 26 0
+1 26 NULL
+@parameters 27 0
+1 27 [5]
+2 27 
+@name 28 10
+3 28 DESCRIPTION
+@value 29 0
+3 29 
+@type 30 1
+4 30 3
+@value(wstr_val) 31 10
+4 31 
+@deleted 32 1
+3 32 0
+@id 33 1
+3 33 0
+2 27 
+3 28 OBJ_TYPE
+3 29 
+4 30 4
+@value(enum_val) 34 1
+4 34 41
+3 32 0
+3 33 1
+2 27 
+3 28 REF_DES
+3 29 
+4 30 3
+4 31 
+3 32 0
+3 33 2
+2 27 
+3 28 MODEL_NAME
+3 29 
+4 30 3
+4 31 
+3 32 0
+3 33 3
+2 27 
+3 28 NUM_OF_PINS
+3 29 
+4 30 1
+@value(int_val) 35 1
+4 35 0
+3 32 0
+3 33 4
+@sym_entities 36 0
+1 36 [5]
+2 36 
+@type 37 1
+3 37 1
+@attribute 38 1
+3 38 0
+@p_data(ent) 39 0
+3 39 
+@entity(line) 40 0
+4 40 ->
+@type 41 1
+5 41 2
+@id 42 1
+5 42 0
+@gen_info 43 0
+5 43 
+@font 44 1
+6 44 1
+@color 45 1
+6 45 1
+@width 46 2
+6 46 0
+@disp_mode 47 1
+6 47 0
+@attributes 48 1
+6 48 0
+@flip 49 1
+5 49 1
+@end1 50 2
+5 50 [3]
+$4024A0C0DADFD29D,4020404DBF70F17B,0
+@end2 51 2
+5 51 [3]
+$4024A0C0DADFD29D,4020970F74EC1F9B,0
+2 36 
+3 37 1
+3 38 0
+3 39 
+4 40 ->
+5 41 2
+5 42 1
+5 43 
+6 44 1
+6 45 1
+6 46 0
+6 47 0
+6 48 0
+5 49 1
+5 50 [3]
+$4024A0C0DADFD29D,4020970F74EC1F9B,0
+5 51 [3]
+$4024F2AC5FFE8AEF,4020970F74EC1F9B,0
+2 36 
+3 37 1
+3 38 0
+3 39 
+4 40 ->
+5 41 2
+5 42 2
+5 43 
+6 44 1
+6 45 1
+6 46 0
+6 47 0
+6 48 0
+5 49 1
+5 50 [3]
+$4024F2AC5FFE8AEF,4020970F74EC1F9B,0
+5 51 [3]
+$4024F2AC5FFE8AEF,4020404DBF70F17B,0
+2 36 
+3 37 1
+3 38 0
+3 39 
+@entity(arc) 52 0
+4 52 ->
+@type 53 1
+5 53 3
+@id 54 1
+5 54 3
+@gen_info 55 0
+5 55 
+6 44 1
+6 45 1
+6 46 0
+6 47 0
+6 48 0
+@flip 56 1
+5 56 1
+@center 57 2
+5 57 [3]
+$4024C9B69D6F2EC6,40201C2E2D3E0B2,0
+@radius 58 2
+5 58 3FBB4E81B4E81B4E
+@end1 59 2
+5 59 [3]
+$4024D75DDE49A2D3,4020510F3C13E7CF,0
+@end2 60 2
+5 60 [3]
+$4024D75DDE49A2D3,401FCE9A3CD05CE1,0
+@t0 61 2
+5 61 3FF51700E0C14B4A
+@t1 62 2
+5 62 4013DC3B1C13DA58
+2 36 
+3 37 1
+3 38 0
+3 39 
+4 52 ->
+5 53 3
+5 54 4
+5 55 
+6 44 1
+6 45 1
+6 46 0
+6 47 0
+6 48 0
+5 56 1
+5 57 [3]
+$4024C9B69D6F2EC6,40201C2E2D3E0B2,0
+5 58 3FBB4E81B4E81B4E
+5 59 [3]
+$4024D75DDE49A2D3,401FCE9A3CD05CE1,0
+5 60 [3]
+$4024D75DDE49A2D3,4020510F3C13E7CF,0
+5 61 4013DC3B1C13DA43
+5 62 401E67BB8C747FD6
+#END_OF_UGC

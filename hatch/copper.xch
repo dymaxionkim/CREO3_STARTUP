@@ -1,0 +1,43 @@
+#UGC XHATCH_STYLE 485 0 0 135 0 1 1
+#Pro/ENGINEER  TM  Version A-29-17  (c) 1988-91 by Parametric Technology Corporation  All Rights Reserved.
+@dwg_xhatch_style 1 0
+0 1 ->
+@type 2 1
+1 2 0
+@xsec_id 3 1
+1 3 0
+@lines 4 0
+1 4 [2]
+2 4 
+@angle 5 1
+3 5 45
+@offset 6 2
+3 6 0
+@spacing 7 2
+3 7 3FD9R
+@named_style 8 0
+3 8 
+@style 9 0
+4 9 
+@font 10 1
+5 10 1
+@color 11 1
+5 11 1
+@width 12 2
+5 12 0
+@layers 13 1
+5 13 269187316
+@name 14 10
+4 14 
+2 4 
+3 5 45
+3 6 3FC9R
+3 7 3FD9R
+3 8 
+4 9 
+5 10 5
+5 11 1
+5 12 0
+5 13 16520
+4 14 
+#END_OF_UGC

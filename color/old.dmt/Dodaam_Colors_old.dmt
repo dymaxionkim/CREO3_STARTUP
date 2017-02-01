@@ -1,0 +1,3744 @@
+﻿V6.0
+#
+#
+# PGL Version 6.0
+#
+#
+# material name
+material_name "ref_color57"
+# material label
+material_label "1R9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color58"
+# material label
+material_label "2G9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 1.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 1.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color59"
+# material label
+material_label "0gray20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.200000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.200000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color60"
+# material label
+material_label "4V9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color61"
+# material label
+material_label "3B80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color62"
+# material label
+material_label "6Y9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 1.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color63"
+# material label
+material_label "1R80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color64"
+# material label
+material_label "2G80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.800000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.800000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color65"
+# material label
+material_label "3B60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.000000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color66"
+# material label
+material_label "4V80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.000000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color67"
+# material label
+material_label "6Y80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.800000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.800000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color68"
+# material label
+material_label "5C9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color69"
+# material label
+material_label "0gray40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.400000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.400000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color70"
+# material label
+material_label "0gray9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color71"
+# material label
+material_label "0gray60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.600000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.600000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color72"
+# material label
+material_label "3B9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color73"
+# material label
+material_label "5C80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.800000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.800000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color74"
+# material label
+material_label "1R60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color75"
+# material label
+material_label "1R40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color76"
+# material label
+material_label "1R20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color77"
+# material label
+material_label "2G60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.600000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.600000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color78"
+# material label
+material_label "2G40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.400000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.400000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color79"
+# material label
+material_label "2G20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.200000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.200000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color80"
+# material label
+material_label "3B40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.000000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color81"
+# material label
+material_label "3B20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.000000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color82"
+# material label
+material_label "4V60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.000000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.000000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color83"
+# material label
+material_label "4V40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.000000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.000000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color84"
+# material label
+material_label "4V20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.000000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.000000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color85"
+# material label
+material_label "5C60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.600000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.600000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color86"
+# material label
+material_label "5C40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.400000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.400000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color87"
+# material label
+material_label "5C20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.200000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.200000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color88"
+# material label
+material_label "6Y60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.600000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.600000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color89"
+# material label
+material_label "6Y40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.400000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.400000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color91"
+# material label
+material_label "6Y20"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.200000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.200000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color97"
+# material label
+material_label "7PR9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.800000 0.800000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.800000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color98"
+# material label
+material_label "8PG9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 1.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.800000 1.000000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color99"
+# material label
+material_label "9PB9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.800000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.800000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color100"
+# material label
+material_label "BPC9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color101"
+# material label
+material_label "CPY9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 1.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color102"
+# material label
+material_label "APV9100"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.800000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.800000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color103"
+# material label
+material_label "7PR80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.600000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.600000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color104"
+# material label
+material_label "7PR60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.400000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.400000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color105"
+# material label
+material_label "7PR40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.200000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.200000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color107"
+# material label
+material_label "8PG80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.800000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.800000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color108"
+# material label
+material_label "8PG60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.600000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.600000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color109"
+# material label
+material_label "8PG40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.400000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.400000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color110"
+# material label
+material_label "8PG9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 1.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.800000 1.000000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color111"
+# material label
+material_label "7PR9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.800000 0.800000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.800000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color112"
+# material label
+material_label "9PB80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.600000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.600000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color113"
+# material label
+material_label "9PB60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.400000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.400000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color114"
+# material label
+material_label "9P40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.200000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.200000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color115"
+# material label
+material_label "9PB9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.800000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.800000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color116"
+# material label
+material_label "APV80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.600000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.600000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color117"
+# material label
+material_label "APV60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.400000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.400000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color118"
+# material label
+material_label "APV40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.200000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.200000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color119"
+# material label
+material_label "APV9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.800000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.800000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color120"
+# material label
+material_label "BPC80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.800000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.800000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color121"
+# material label
+material_label "BPC60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.600000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.600000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color122"
+# material label
+material_label "BPC40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.200000 0.400000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.400000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color123"
+# material label
+material_label "BPC9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color124"
+# material label
+material_label "CPY80"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.800000 0.800000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.800000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color125"
+# material label
+material_label "CPY60"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.600000 0.600000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.600000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color126"
+# material label
+material_label "CPY40"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.400000 0.400000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.400000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.400000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color127"
+# material label
+material_label "CPY9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 1.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color129"
+# material label
+material_label "0gray9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color130"
+# material label
+material_label "1R9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color131"
+# material label
+material_label "2G9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 1.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 1.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color132"
+# material label
+material_label "3B9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 0.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color133"
+# material label
+material_label "4V9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color134"
+# material label
+material_label "5C9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 0.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color135"
+# material label
+material_label "6Y9100T"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 1.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.500000
+# shine
+shine 0.250000
+# shine intensity
+intensity 0.250000
+# reflection
+reflection 0.250000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.500000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color178"
+# material label
+material_label "BPC9100M"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 0.800000 1.000000 1.000000 "diffuse"
+color_param 0.800000 0.800000 0.800000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 0.800000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 1.000000 1.000000 1.000000
+# specular color
+specular_color 0.800000 0.800000 0.800000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.500000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.900000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color181"
+# material label
+material_label "7PR9100M"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 1.000000 0.800000 0.800000 "diffuse"
+color_param 0.800000 0.800000 0.800000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 1.000000 0.800000 0.800000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.800000 0.800000 1.000000
+# specular color
+specular_color 0.800000 0.800000 0.800000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.500000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.900000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color182"
+# material label
+material_label "8PG9100M"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 0.800000 1.000000 0.800000 "diffuse"
+color_param 0.800000 0.800000 0.800000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 0.800000 1.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.800000 1.000000 0.800000 1.000000
+# specular color
+specular_color 0.800000 0.800000 0.800000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.500000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.900000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color183"
+# material label
+material_label "9PB9100M"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 0.800000 0.800000 1.000000 "diffuse"
+color_param 0.800000 0.800000 0.800000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 0.800000 0.800000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.800000 1.000000 1.000000
+# specular color
+specular_color 0.800000 0.800000 0.800000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.500000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.900000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color184"
+# material label
+material_label "APV9100M"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 1.000000 0.800000 1.000000 "diffuse"
+color_param 0.800000 0.800000 0.800000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 1.000000 0.800000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.800000 1.000000 1.000000
+# specular color
+specular_color 0.800000 0.800000 0.800000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.500000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.900000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color185"
+# material label
+material_label "CPY9100M"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 1.000000 1.000000 0.800000 "diffuse"
+color_param 0.800000 0.800000 0.800000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.900000 "reflectivity"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 1.000000 1.000000 0.800000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.800000 1.000000
+# specular color
+specular_color 0.800000 0.800000 0.800000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.500000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.900000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0

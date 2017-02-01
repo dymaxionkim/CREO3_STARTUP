@@ -1,0 +1,121 @@
+HPA#SYMS
+#
+#
+bar_cond.sym
+Barometric condenser 
+#
+c_tower_hpa.sym
+Cooling tower
+#
+cen_comp.sym
+Centrifugal compressor, motor or turbine driven
+#
+cooler.sym
+Cooler or heat exchanger
+#
+cr_pump.sym
+Centrifugal or rotary pump, various services and drives
+#
+dcfdhtr.sym
+Direct contact feed water heater
+#
+de_evap.sym
+Double effect evaporator
+#
+drainer.sym
+Drainer or liquid level controller
+#
+dsprhtr.sym
+Desuperheater
+#
+dyn_pump.sym
+Dynamic (air ejector or eductor) pump
+#
+engine.sym
+Steam, diesel supercharged or gas driven engine
+#
+extractor.sym
+Extractor
+#
+fan_blower.sym
+Motor or turbine driven fan or blower
+#
+fdairhtr.sym
+Feed-water heater with air outlet
+#
+filter.sym
+Filter
+#
+flow_nozle.sym
+Flow nozzle
+#
+flue_htr.sym
+Flue gas reheater (with intermediate superheater)
+#
+fluid_driv.sym
+Fluid drive
+#
+fp_tank.sym
+Flash or pressure tank
+#
+jet_cond.sym
+Jet condenser
+#
+orifice.sym
+Orifice
+#
+precipitat.sym
+Electrostatic, mechanical or wet superheater
+#
+rcp_pump.sym
+Reciprocating pump
+#
+re_htr.sym
+Live steam superheater or reheater
+#
+rec_comp_hpa.sym
+Motor driven reciprocating compressor
+#
+reg_deaer.sym
+Regular deaerator
+#
+rot_comp_hpa.sym
+Rotary compressor
+#
+rot_heat.sym
+Air heater (rotating type)
+#
+se_evap.sym
+Single effect evaporator
+#
+separator.sym
+Separator
+#
+steam_gen.sym
+Steam generator (boiler with economizer)
+#
+steam_trap.sym
+Steam trap
+#
+stm_turb.sym
+Steam turbine or axial compressor
+#
+strainer_hpa.sym
+Single or double strainer
+#
+sur_deaer.sym
+Deaerator with surge tank
+#
+tank_hpa.sym
+Open or closed tank
+#
+tub_heat.sym
+Air heater (plate or tubular)
+#
+turbine.sym
+Condensing turbine
+#
+v_tube.sym
+Venturi tube
+#
+

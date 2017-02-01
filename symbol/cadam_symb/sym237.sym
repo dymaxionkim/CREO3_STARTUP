@@ -1,0 +1,104 @@
+#UGC:2 USER_SYMBOL 736 260 0 1 1 15 1300 9415 \
+#- VERS 0 0                                                          \
+#- HOST                                                              \
+#- LINK                                                              \
+#- DBID                                                              \
+#-END_OF_UGC_HEADER
+#Pro/ENGINEER  TM  Version E-03-22  (c) 1988-93 by Parametric Technology Corporation  All Rights Reserved. 9415
+@usr_def_symbol 1 0
+0 1 ->
+@type 2 1
+1 2 45
+@attribute 3 1
+1 3 2144
+@id 4 1
+1 4 0
+@revnum 5 1
+1 5 8
+@name 6 10
+1 6 SYM237
+@path 7 0
+1 7 ->
+@version 8 1
+2 8 5
+@name 9 10
+2 9 sym237.sym
+@path 10 10
+2 10 
+@outline 11 2
+1 11 [2][3]
+$3F96DE81BDFFDD,3FD2C80B37713BC,0
+$3FBF5D26B5A9458,3FDC79E4FAF6CEA,0
+@height 12 2
+1 12 3FC3FBC9E7FC192
+@data 13 0
+1 13 NULL
+@attach_pnt 14 0
+1 14 ->
+@type 15 1
+2 15 14
+@attach_id 16 1
+2 16 -1
+@index 17 1
+2 17 [2]
+$2*0
+@view_id 18 1
+2 18 0
+@point 19 2
+2 19 [3]
+$400E199DA43C572D,4003AD9F4B0AC78F,0
+@vec 20 2
+2 20 [3]
+$3*0
+@attribute 21 1
+2 21 0
+@ext_model_id 22 1
+2 22 -1
+@next_attach_ptr 23 0
+1 23 NULL
+@sym_entities 24 0
+1 24 [2]
+2 24 
+@type 25 1
+3 25 1
+@attribute 26 1
+3 26 0
+@p_data(ent) 27 0
+3 27 
+@entity(line) 28 0
+4 28 ->
+@id 29 1
+5 29 0
+@gen_info 30 0
+5 30 
+@font 31 1
+6 31 1
+@color 32 1
+6 32 3
+@end1 33 2
+5 33 [3]
+$3FBF5D26B5A9458,3FDC79E4FAF6CEA,0
+@end2 34 2
+5 34 [3]
+$3F96DE81BDFFDD,3FD2C8BCA7E4384,0
+2 24 
+3 25 1
+3 26 0
+3 27 
+4 28 ->
+5 29 1
+5 30 
+6 31 1
+6 32 3
+5 33 [3]
+$3F97107CBD2EEE,3FD2C80B37713BC,0
+5 34 [3]
+$3FBED05EC4573B8,3FD2C80B37713BC,0
+@font_names 35 0
+1 35 [2]
+2 35 
+@relat 36 10
+3 36 font
+2 35 
+3 36 filled
+#END_OF_UGC

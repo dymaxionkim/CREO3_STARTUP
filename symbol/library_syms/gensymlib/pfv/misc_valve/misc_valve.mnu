@@ -1,0 +1,21 @@
+MISC#VALVE
+#
+#
+check_valv.sym
+Straight check valve for flange, screw, bell & spigot, weld, or solder assembly 
+#
+diaph_valv.sym
+Diaphragm valve for flange or screw assembly
+#
+float_valv_pfv.sym
+Float valve for flange, screw, weld or solder assembly 
+#
+lock_valve.sym
+Lockshield valve for flange, screw, or solder assembly
+#
+open_valve.sym
+Quick opening valve for flange, screw, weld or solder assembly
+#
+safe_valve.sym
+Safety valve for flange, screw, bell & spigot, weld or solder assembly
+#

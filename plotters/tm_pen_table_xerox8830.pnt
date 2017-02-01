@@ -1,0 +1,26 @@
+! This is a pen table file. See Interface Guide under "pen mapping".
+
+! white entities (object lines, geometry,drawing color=white, brown,magenta)
+pen 1 thickness .040 cm; drawing_color
+
+! yellow entities (text, dimensions, cross hatching, center line,letter color=yellow)
+pen 2 thickness .020 cm; letter_color
+
+! Gray entities (hidden lines. color=gray)
+pen 3 pattern 0.015 0.015  0.015 0.015 cm; thickness .020 cm; half_tone_color
+
+! red entities (can use for drawing border if you change the entity color
+! to red in the format file, color=red)
+pen 4 thickness .04 cm; highlite_color
+
+! Green  entities (object Seetmetal, color=green)
+pen 5 thickness .040 cm; attention_color
+
+! Cyan entities (Section Lines, color=cyan)
+pen 6 thickness .020 cm; section_color
+
+! Gray entities (Dimmed Menu lines, color=gray)
+pen 7 thickness .020 cm; dimmed_color
+
+! Blue entities (Edge High lines, color=blue)
+pen 8 thickness .020 cm; edge_highlite_color

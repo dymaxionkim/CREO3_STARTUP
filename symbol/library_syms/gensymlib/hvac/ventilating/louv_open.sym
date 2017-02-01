@@ -1,0 +1,322 @@
+#UGC USER_SYMBOL 572 0 0 170 0 1 1 @
+#Pro/ENGINEER  TM  Version D-01-30  (c) 1988-92 by Parametric Technology Corporation  All Rights Reserved.
+@usr_def_symbol 1 0
+0 1 ->
+@type 2 1
+1 2 45
+@attribute 3 1
+1 3 59552
+@id 4 1
+1 4 21
+@revnum 5 1
+1 5 1
+@name 6 10
+1 6 LOUV_OPENA
+@path 7 0
+1 7 ->
+@version 8 1
+2 8 -1
+@name 9 10
+2 9 louv_opena.sym
+@path 10 10
+2 10 
+@outline 11 2
+1 11 [2][3]
+$40138637F22B041F,4011D7FF8841AF64,0
+$4016E7539F689264,401317FF8841AF65,0
+@height 12 2
+1 12 3FD400000000001
+@data 13 0
+1 13 NULL
+@attach_pnt 14 0
+1 14 ->
+@type 15 1
+2 15 14
+@attach_id 16 1
+2 16 1
+@index 17 1
+2 17 [2]
+$2*0
+@att_offsets 18 0
+2 18 [1]
+3 18 ->
+@offset_type 19 1
+4 19 6
+@offset 20 2
+4 20 0
+@view_id 21 1
+2 21 0
+@point 22 2
+2 22 [3]
+$40138637F22B041F,401317FF8841AF65,0
+@vec 23 2
+2 23 [3]
+$BFF,2*0
+@attribute 24 1
+2 24 0
+@scndry_attach_ptr 25 0
+2 25 NULL
+@next_attach_ptr 26 0
+1 26 NULL
+@prompts 27 0
+1 27 [1]
+2 27 ->
+@name 28 10
+3 28 specifications
+@ent_index 29 1
+3 29 0
+@line_arr_pos 30 1
+3 30 [2]
+$2*0
+@def_value 31 0
+3 31 ->
+@type 32 1
+4 32 51
+@value(s_val) 33 10
+4 33 L  20X12-700cfm
+@parameters 34 0
+1 34 [5]
+2 34 
+@name 35 10
+3 35 DESCRIPTION
+@value 36 0
+3 36 
+@type 37 1
+4 37 3
+@value(wstr_val) 38 10
+4 38 
+@deleted 39 1
+3 39 0
+@id 40 1
+3 40 0
+2 34 
+3 35 OBJ_TYPE
+3 36 
+4 37 4
+@value(enum_val) 41 1
+4 41 41
+3 39 0
+3 40 1
+2 34 
+3 35 REF_DES
+3 36 
+4 37 3
+4 38 
+3 39 0
+3 40 2
+2 34 
+3 35 MODEL_NAME
+3 36 
+4 37 3
+4 38 
+3 39 0
+3 40 3
+2 34 
+3 35 NUM_OF_PINS
+3 36 
+4 37 1
+@value(int_val) 42 1
+4 42 0
+3 39 0
+3 40 4
+@sym_entities 43 0
+1 43 [7]
+2 43 
+@type 44 1
+3 44 2
+@attribute 45 1
+3 45 0
+@p_data(note) 46 0
+3 46 
+@note 47 0
+4 47 ->
+@type 48 1
+5 48 0
+@group_id 49 1
+5 49 0
+@attributes 50 1
+5 50 2
+@line_array 51 0
+5 51 [1]
+6 51 
+@text_array 52 0
+7 52 [1]
+8 52 
+@type 53 1
+9 53 6
+@text_type 54 1
+9 54 18
+@text_value 55 10
+9 55 \specifications\
+@txt_attrib 56 1
+9 56 64
+@coord 57 2
+9 57 [3]
+@owner_id 58 1
+9 58 -1
+@part_id 59 1
+9 59 -1
+@height 60 2
+9 60 3FB
+@angle 61 2
+9 61 0
+@width_factor 62 2
+9 62 BFF
+@font_id 63 1
+9 63 0
+@format_info 64 0
+9 64 
+@places_denom 65 5
+10 65 -1
+@slant_angle 66 2
+9 66 0
+@thickness 67 2
+9 67 0
+@note_ldr 68 0
+5 68 ->
+@ldr_attrib 69 1
+6 69 0
+@note_att 70 0
+6 70 ->
+7 15 14
+7 16 -1
+7 17 [2]
+$2*0
+7 21 0
+7 22 [3]
+$4013B4206C355F3,4012A27753BC16B1,0
+7 23 [3]
+$3*0
+7 24 0
+7 25 NULL
+6 26 NULL
+2 43 
+3 44 1
+3 45 0
+@p_data(ent) 71 0
+3 71 
+@entity(line) 72 0
+4 72 ->
+@type 73 1
+5 73 2
+@id 74 1
+5 74 0
+@gen_info 75 0
+5 75 
+@font 76 1
+6 76 1
+@color 77 1
+6 77 1
+@width 78 2
+6 78 0
+@disp_mode 79 1
+6 79 0
+@attributes 80 1
+6 80 0
+@flip 81 1
+5 81 1
+@end1 82 2
+5 82 [3]
+$40138637F22B041F,401277FF8841AF65,0
+@end2 83 2
+5 83 [3]
+$401670E29CD5AEC8,401277FF8841AF65,0
+2 43 
+3 44 1
+3 45 0
+3 71 
+4 72 ->
+5 73 2
+5 74 1
+5 75 
+6 76 1
+6 77 1
+6 78 0
+6 79 0
+6 80 0
+5 81 1
+5 82 [3]
+$40138637F22B041F,401317FF8841AF65,0
+5 83 [3]
+$40138637F22B041F,4011D7FF8841AF64,0
+2 43 
+3 44 1
+3 45 0
+3 71 
+4 72 ->
+5 73 2
+5 74 2
+5 75 
+6 76 1
+6 77 1
+6 78 0
+6 79 0
+6 80 0
+5 81 1
+5 82 [3]
+$401670E29CD5AEC8,401277FF8841AF65,0
+5 83 [3]
+$40162E37F22B042,40128554DD9704BA,0
+2 43 
+3 44 1
+3 45 0
+3 71 
+4 72 ->
+5 73 2
+5 74 3
+5 75 
+6 76 1
+6 77 1
+6 78 0
+6 79 0
+6 80 0
+5 81 1
+5 82 [3]
+$40162E37F22B042,40128554DD9704BA,0
+5 83 [3]
+$40162E37F22B042,40126AAA32EC5A0F,0
+2 43 
+3 44 1
+3 45 0
+3 71 
+4 72 ->
+5 73 2
+5 74 4
+5 75 
+6 76 1
+6 77 1
+6 78 0
+6 79 0
+6 80 0
+5 81 1
+5 82 [3]
+$40162E37F22B042,40126AAA32EC5A0F,0
+5 83 [3]
+$401670E29CD5AEC8,401277FF8841AF65,0
+2 43 
+3 44 1
+3 45 0
+3 71 
+@entity(polygon) 84 0
+4 84 ->
+@type 85 1
+5 85 40
+@id 86 1
+5 86 5
+@gen_info 87 0
+5 87 
+6 76 1
+6 77 1
+6 78 0
+6 79 0
+6 80 0
+@flip 88 1
+5 88 0
+@fill_color 89 1
+5 89 -1
+@vertex 90 2
+5 90 [3][3]
+$401670E29CD5AEC8,401277FF8841AF65,0
+$40162E37F22B042,40128554DD9704BA,0
+$40162E37F22B042,40126AAA32EC5A0F,0
+#END_OF_UGC

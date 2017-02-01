@@ -1,0 +1,18 @@
+symbols
+#
+#
+/weldsymlib
+ANSI/AWS A2.4-86에 맞는 용접이나 납땜용 기호
+#
+/elecsymlib
+ANSI Y32.2-1975에 맞는 전기/전장 다이어그램 기호
+#
+/gensymlib
+열교환기 분야의 기호
+#
+/surftextsymlib
+ANSI Y14.36-1978의 의거한 surface texture 심볼
+#
+/isosurftext
+ISO 1302-1978(E)에 의거한 surface texture 심볼
+#

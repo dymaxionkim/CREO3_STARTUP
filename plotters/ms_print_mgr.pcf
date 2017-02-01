@@ -1,0 +1,22 @@
+plotter MS_PRINT_MGR
+button_name MS Printer Manager
+button_help Print using Windows Printer Manager.
+plot_drawing_format YES default
+plot_segmented NO default
+plot_roll_media NO default
+plot_handshake YES default
+plot_label NO default
+create_separate_files NO default
+plot_with_panzoom YES default
+rotate_plotting NO default
+allow_file_naming YES
+plot_name YES
+interface_quality 2 default
+plot_destination file default
+pen_table_file d:\ptc\pro_stds\plotters\pen_table.pnt
+plot_sheets current default
+paper_size A3 default
+paper_outline NO default
+plot_clip NO default
+plot_area NO default
+plot_translate 0 1.5 mm

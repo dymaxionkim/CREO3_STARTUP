@@ -1,0 +1,14 @@
+.breakdown
+%$type %$name contains:
+.titles Qty; Name; Type; Cost;
+----------------------------------------
+.row %$quantity[-5d]; %$name[-18.18s]; %$type[-9.9s];%cost[-4.2f]
+
+===========================================
+.summary
+Summary of parts for assembly %$name:
+.titles Quantity; Name; Cost;
+----------------------------------------
+.row %$quantity[-5d]; %$name[-20.20s];%cost[-4.2f]
+
+TOTAL Cost: %[$total(cost)][-4.2f]
