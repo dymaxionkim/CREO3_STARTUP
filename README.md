@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# CREO3_STARTUP
 
-You can use the [editor on GitHub](https://github.com/dymaxionkim/CREO3_STARTUP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_Startup Setting for PTC CREO3_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Compatible Envirenment
+* MS WIndows 7, 8, 8.1, 10
+* CREO3 installed in `E:\PTC\` path.
+* (주)도담시스템스용
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 다운로드
+* [https://github.com/dymaxionkim/CREO3_STARTUP/archive/master.zip](https://github.com/dymaxionkim/CREO3_STARTUP/archive/master.zip)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 제작배경
+* 사용자마다 설정이 달라서 혼선 발생
+* 회사 표준 설정안을 만들어서 한방에 쉽게 적용할 수 있게 하면 좋겠다고 생각
+* 계속 판올림해서 개선해도 일관성을 유지하면 좋겠다고 생각
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 사용방법
+* `E:\PTC\` 경로에 압축을 풀어넣을 것.  그러면 `E:\PTC\CREO3_STARTUP` 폴더 안에 모든 파일들이 들어있을 것임.
+* CREO3 시작 아이콘을 마우스 오른쪽 버튼으로 눌러서 나오는 메뉴에서 `속성 - 바로가기 - 시작위치` 부분에 `E:\PTC\CREO3_STARTUP` 경로를 써 넣어주면, 다음부터는 이 경로에서 시작되고 이곳의 `config.pro` 설정이 먹어들어가게 됨.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 유의사항
+* 도담시스템스 템플릿은 국방규격에 맞춘 것으로, 임의 수정 가능함.
+* 도면용 폰트는 Arial Unicode MS으로 통일되어 있음.  이 폰트는 MS Office를 설치하면 자동으로 시스템에 들어 있음. (또는 따로 웹에서 다운로드 받아서 설치하면 됨)
+* CREO3 설치 경로는 반드시 `E:\PTC\`이어야 할 필요는 없으나, 가능한 이곳으로 고정할 것을 권장함(포터블하게 다루기 쉽도록 하기 위해서).  설치 드라이브 문자는 달라도 됨.
+* 본 설정의 설치 경로 역시 `E:\PTC\CREO3_STARTUP`으로 권장하며, 만일 경로가 달라질 경우에는 `config.pro` 파일 내용 안의 경로들을 전부 알맞게 교체할 것.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dymaxionkim/CREO3_STARTUP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
